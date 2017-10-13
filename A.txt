@@ -1,0 +1,100 @@
+"Irith Pomeranz" "Sudhakar M. Reddy" 426
+"Makoto Takizawa" "Tomoya Enokido" 360
+"Didier Dubois" "Henri Prade" 353
+"Fatos Xhafa" "Leonard Barolli" 334
+"Chun Chen" "Jiajun Bu" 288
+"David Blaauw" "Dennis Sylvester" 281
+"Oscar Castillo" "Patricia Melin" 281
+"Amr El Abbadi" "Divyakant Agrawal" 276
+"Shojiro Nishio" "Takahiro Hara" 233
+"Leonard Barolli" "Makoto Ikeda" 227
+"Willy Susilo" "Yi Mu" 217
+"Enrico Macii" "Massimo Poncino" 205
+"Guangquan Zhang" "Jie Lu" 203
+"Fumihito Arai" "Toshio Fukuda" 201
+"Juan-Carlos Cano" "Pietro Manzoni" 199
+"Branka Vucetic" "Yonghui Li" 198
+"Elizabeth Chang" "Tharam S. Dillon" 198
+"Leonard Barolli" "Tetsuya Oda" 196
+"Debin Zhao" "Wen Gao 0001" 193
+"Petru Eles" "Zebo Peng" 192
+"Dinh Q. Phung" "Svetha Venkatesh" 191
+"Shiguang Shan" "Xilin Chen" 191
+"Hiroshi Saruwatari" "Kiyohiro Shikano" 189
+"Shoji Hirano" "Shusaku Tsumoto" 189
+"Anastasios Tefas" "Ioannis Pitas" 186
+"Sungyoung Lee" "Young-Koo Lee" 181
+"Lajos Hanzo" "Soon Xin Ng" 180
+"Dacheng Tao" "Xuelong Li" 178
+"Luiza de Macedo Mourelle" "Nadia Nedjah" 177
+"Siwei Ma" "Wen Gao 0001" 175
+"Flemming Nielson" "Hanne Riis Nielson" 171
+"Agma J. M. Traina" "Caetano Traina Jr." 169
+"Daniel Thalmann" "Nadia Magnenat-Thalmann" 169
+"Hiroshi G. Okuno" "Tetsuya Ogata" 169
+"Hisao Ishibuchi" "Yusuke Nojima" 169
+"Björn E. Ottersten" "Symeon Chatzinotas" 168
+"Filip De Turck" "Piet Demeester" 168
+"Jelena V. Misic" "Vojislav B. Misic" 168
+"Lajos Hanzo" "Lie-Liang Yang" 168
+"Arthur W. Toga" "Paul M. Thompson" 167
+"Edwin R. Hancock" "Richard C. Wilson" 166
+"Pierangela Samarati" "Sabrina De Capitani di Vimercati" 166
+"Frédéric Cuppens" "Nora Cuppens-Boulahia" 165
+"Bart Dhoedt" "Piet Demeester" 164
+"Arjan Durresi" "Leonard Barolli" 163
+"Bart Dhoedt" "Filip De Turck" 163
+"Joel H. Saltz" "Tahsin M. Kurç" 162
+"Kei Okada" "Masayuki Inaba" 161
+"Dusit Niyato" "Ping Wang" 160
+"Jörg Henkel" "Muhammad Shafique" 160
+"Keikichi Hirose" "Nobuaki Minematsu" 160
+"Tatsuo Arai" "Yasushi Mae" 160
+"Daniel Lokshtanov" "Saket Saurabh" 159
+"Craig Macdonald" "Iadh Ounis" 158
+"Danny Krizanc" "Evangelos Kranakis" 157
+"Michitaka Hirose" "Tomohiro Tanikawa" 157
+"Robert Wille" "Rolf Drechsler" 156
+"Hai Jin" "Xiaofei Liao" 155
+"Andrzej Ehrenfeucht" "Grzegorz Rozenberg" 154
+"Mayank Vatsa" "Richa Singh" 153
+"Mary Jane Irwin" "Narayanan Vijaykrishnan" 151
+"Bin Ma" "Haizhou Li" 150
+"Hermann Ney" "Ralf Schlüter" 150
+"Kotaro Hirasawa" "Shingo Mabu" 150
+"Nadeem Javaid" "Zahoor Ali Khan" 150
+"Louise E. Moser" "P. M. Melliar-Smith" 149
+"M. N. S. Swamy" "M. Omair Ahmad" 148
+"Anton van den Hengel" "Chunhua Shen" 147
+"Dacheng Yang" "Xin Zhang 0001" 147
+"Mahmut T. Kandemir" "Mary Jane Irwin" 147
+"Didier Colle" "Mario Pickavet" 146
+"Erik D. Demaine" "Martin L. Demaine" 146
+"Guido Boella" "Leendert W. N. van der Torre" 146
+"Hiroki Nishiyama" "Nei Kato" 145
+"Nicola Santoro" "Paola Flocchini" 145
+"Giovanni De Micheli" "Luca Benini" 144
+"Hong Gao" "Jianzhong Li" 144
+"Lajos Hanzo" "Sheng Chen 0001" 144
+"Arnaud Virazel" "Patrick Girard 0001" 143
+"Carsten Griwodz" "Pål Halvorsen" 142
+"Ignacio Aedo" "Paloma Díaz" 142
+"Xianlong Hong" "Yici Cai" 142
+"Insup Lee" "Oleg Sokolsky" 141
+"K. J. Ray Liu" "Yan Chen" 141
+"Depeng Jin" "Yong Li 0008" 140
+"Diego Calvanese" "Giuseppe De Giacomo" 140
+"Sakriani Sakti" "Satoshi Nakamura 0001" 140
+"Lei Guo 0002" "Tianming Liu" 139
+"Carlos Miguel Tavares Calafate" "Pietro Manzoni" 138
+"Helmut Krcmar" "Jan Marco Leimeister" 138
+"Hong Linh Truong" "Schahram Dustdar" 138
+"Irwin King" "Michael R. Lyu" 138
+"John M. Carroll" "Mary Beth Rosson" 138
+"Aggelos K. Katsaggelos" "Rafael Molina" 137
+"Héctor Pomares" "Ignacio Rojas" 137
+"Jon W. Mark" "Xuemin Shen" 137
+"Erik Mannens" "Rik Van de Walle" 136
+"Hiroshi Ishiguro" "Norihiro Hagita" 136
+"Leonard Barolli" "Makoto Takizawa" 136
+"Wen Gao 0001" "Xilin Chen" 136
